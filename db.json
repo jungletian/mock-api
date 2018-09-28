@@ -40,5 +40,79 @@
             "url": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
             "thumbnailUrl": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg"
         }
+    ],
+    "brvah": [
+         {
+            "title": "title1",
+            "url": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "thumbnailUrl": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "type": 1
+        },
+        {
+            "title": "title2",
+            "url": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "thumbnailUrl": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "type": 2
+        },
+        {
+            "title": "title3",
+            "url": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "thumbnailUrl": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "type": 1
+        },
+        {
+            "title": "title4",
+            "url": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "thumbnailUrl": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "type": 2
+        },
+        {
+            "title": "title5",
+            "url": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "thumbnailUrl": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "type": 1
+        },
+        {
+            "title": "title6",
+            "url": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "thumbnailUrl": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "type": 2
+        },
+        {
+            "title": "title7",
+            "url": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "thumbnailUrl": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "type": 1
+        },
+        {
+            "title": "title8",
+            "url": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "thumbnailUrl": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "type": 2
+        },
+        {
+            "title": "title5",
+            "url": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "thumbnailUrl": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "type": 1
+        },
+        {
+            "title": "title6",
+            "url": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "thumbnailUrl": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "type": 2
+        },
+        {
+            "title": "title7",
+            "url": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "thumbnailUrl": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "type": 1
+        },
+        {
+            "title": "title8",
+            "url": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "thumbnailUrl": "http://www.xinhuanet.com/politics/leaders/2018-09/18/1123449843_15372769616741n.jpg",
+            "type": 2
+        }
     ]
 }
