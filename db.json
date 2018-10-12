@@ -1,4 +1,13 @@
 {
+    "like": {
+        "errno": 0,
+        "errmsg": "OK",
+        "data": {
+            "state": 1,
+            "like_count": 1203,
+            "like_name": "张三"
+        }
+    },
     "demo": {
         "errno": 1,
         "errmsg": "网络接口错误了",
