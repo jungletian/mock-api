@@ -9,7 +9,7 @@
         }
     },
     "demo": {
-        "errno": 1,
+        "errno": 0,
         "errmsg": "网络接口错误了",
         "data": [
             {
