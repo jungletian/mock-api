@@ -8,101 +8,47 @@
             "like_name": "张三"
         }
     },
-    "demo": {
-        "errno": 0,
-        "errmsg": "网络接口错误了",
-        "data": [
-            {
-                "title": "title1",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "b2"
-            },
-            {
-                "title": "title2",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "a1"
-            },
-            {
-                "title": "title3",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "c3"
-            },
-            {
-                "title": "title4",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "a1"
-            },
-            {
-                "title": "title5",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "a1"
-            },
-            {
-                "title": "title6",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "a1"
-            },
-            {
-                "title": "title7",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "a1"
-            },
-            {
-                "title": "title8",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "b2"
-            },
-            {
-                "title": "title9",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "c3"
-            },
-            {
-                "title": "title10",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "a1"
-            },
-            {
-                "title": "title11",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "a1"
-            },
-            {
-                "title": "title12",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "a1"
-            },
-            {
-                "title": "title13",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "c3"
-            },
-            {
-                "title": "title14",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "c3"
-            },
-            {
-                "title": "title15",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "a1"
-            },
-            {
-                "title": "title16",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "a1"
-            },
-            {
-                "title": "title17",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "b2"
-            },
-            {
-                "title": "title18",
-                "url": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg",
-                "layout": "c3"
-            }
-        ]
+    "catelist": {
+        "errno": 5003,
+        "errmsg": "OK",
+        "request_id": 3715202224,
+        "timestamp": 1536304005,
+        "data": {
+            "catelist": [
+                {
+                    "cate_id": 1,
+                    "cate_name": "旅行"
+                },
+                {
+                    "cate_id": 2,
+                    "cate_name": "美食"
+                },
+                {
+                    "cate_id": 3,
+                    "cate_name": "名字很长"
+                },
+                {
+                    "cate_id": 4,
+                    "cate_name": "陈羽凡吸毒"
+                },
+                {
+                    "cate_id": 5,
+                    "cate_name": "这是一个名字很长的tab"
+                },
+                {
+                    "cate_id": 6,
+                    "cate_name": "这个就很短"
+                },
+                {
+                    "cate_id": 7,
+                    "cate_name": "很长咋办啊"
+                },
+                {
+                    "cate_id": 8,
+                    "cate_name": "不知道"
+                }
+            ]
+        }
     },
     "brvah": [
         {
