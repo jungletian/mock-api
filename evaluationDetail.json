@@ -1,0 +1,80 @@
+{
+    "msg": "success",
+    "code": 0,
+    "data": {
+        "consumeMoney": 80000,
+        "userEvaluationList": [{
+            "idType": 0,
+            "parentEvaluationFlag": 1,
+            "qualityLevelShow": true,
+            "evaluationTime": "用户首次评论",
+            "picture": "https://lemon.cdn.bcebos.com//default%2Fdefault_avatar_girl.png",
+            "evaluationId": 13,
+            "evaluationDesc": "文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案",
+            "createTime": "3天前",
+            "name": "用户昵称哈哈哈",
+            "auditStatus": 2,
+            "id": 3361123,
+            "evaluationPicture": ["https://lemon.cdn.bcebos.com//default%2Fdefault_avatar_girl.png", "https://lemon.cdn.bcebos.com/default%2Fdefault_avatar_boy.png"]
+        }],
+        "score": {
+            "itemScore": 30,
+            "environmentScore": 35,
+            "serviceScore": 25,
+            "totalScore": 40
+        },
+        "doctorCardInfo": {
+            "title": "医师",
+            "speciality": "美体塑形",
+            "doctorId": 47608,
+            "workYears": "17年",
+            "verifyFlag": 1,
+            "avatar": "https://lemon.cdn.bcebos.com//default%2Fdefault_avatar_girl.png",
+            "name": "陈万方"
+        },
+        "item": [{
+            "name": "三级项目一名称",
+            "id": 1001
+        }, {
+            "name": "三级项目二名称",
+            "id": 1002
+        }, {
+            "name": "三级项目三名称",
+            "id": 1003
+        }],
+        "hospitalEvaluationList": [{
+            "idType": 1,
+            "parentEvaluationFlag": 0,
+            "qualityLevelShow": false,
+            "picture": "https://lemon-bserver.cdn.bcebos.com/lemon-bserver/1/pic/1e08a64f100de6e9438b5654ec176da0.jpg",
+            "evaluationId": 15,
+            "evaluationDesc": "机构文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案",
+            "name": "第一人民医院",
+            "auditStatus": 2,
+            "id": 123456,
+            "evaluationPicture": ["https://lemon.cdn.bcebos.com//default%2Fdefault_avatar_girl.png", "https://lemon.cdn.bcebos.com/default%2Fdefault_avatar_boy.png"]
+        }],
+        "hospitalCardInfo": {
+            "latitude": "39.899615",
+            "cityId": 0,
+            "bizZones": [{
+                "zoneId": 4266,
+                "zoneValue": "双井",
+                "zoneName": "双井",
+                "isHot": 0
+            }, {
+                "zoneId": 4231,
+                "zoneValue": "劲松",
+                "zoneName": "劲松",
+                "isHot": 0
+            }],
+            "hospitalId": 10072,
+            "logo": "https://bj.bcebos.com/v1/lemon-priv/pay-platform-info/1/pic/2d984dd4e9dfb8f1.jpg",
+            "longitude": "116.473798",
+            "address": "朝阳区广渠路37号院1号楼106、206、216、三层、四层、五层",
+            "hospitalIdentify": "认证",
+            "hospitalName": "北京联合丽格第一医疗美容医院\"",
+            "provinceId": 1
+        }
+    }
+}
