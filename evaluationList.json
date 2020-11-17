@@ -4,7 +4,79 @@
     "data": {
         "evaluationList": [
             {
-                "evaluationDesc": "文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案",
+                "evaluationDesc": "文案文1111111案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案",
+                "idType": 0,
+                "parentEvaluationFlag": 1,
+                "qualityLevelShow": true,
+                "evaluationTime": "用户首次评论",
+                "picture": "https://lemon.cdn.bcebos.com//default%2Fdefault_avatar_girl.png",
+                "evaluationId": 13,
+                "createTime": "3天前",
+                "name": "用户昵称哈哈哈",
+                "auditStatus": 2,
+                "id": 3361123,
+                "evaluationPicture": [
+                    "https://lemon.cdn.bcebos.com//default%2Fdefault_avatar_girl.png",
+                    "https://lemon.cdn.bcebos.com/default%2Fdefault_avatar_boy.png"
+                ],
+                "score": {
+                    "totalScore": 40,
+                    "environmentScore": 45,
+                    "serviceScore": 35,
+                    "itemScore": 50
+                },
+                "item": [
+                    {
+                        "name": "三级项目一名称",
+                        "id": 1001
+                    },
+                    {
+                        "name": "三级项目二名称",
+                        "id": 1002
+                    },
+                    {
+                        "name": "三级项目三名称",
+                        "id": 1003
+                    }
+                ]
+            },{
+                "evaluationDesc": "文案文案222222文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案",
+                "idType": 0,
+                "parentEvaluationFlag": 1,
+                "qualityLevelShow": true,
+                "evaluationTime": "用户首次评论",
+                "picture": "https://lemonpro.cdn.bcebos.com/image/15858935984971389eb97c542-c714-44b1-870e-6fb23e19e63e.jpg",
+                "evaluationId": 13,
+                "createTime": "3天前",
+                "name": "用户昵称哈哈哈",
+                "auditStatus": 2,
+                "id": 3361123,
+                "evaluationPicture": [
+                    "https://lemonpro.cdn.bcebos.com/image/15858942563358620039dbc5e31-3491-459e-95fc-3cc864b092bc.jpg",
+                    "https://lemon.cdn.bcebos.com/default%2Fdefault_avatar_boy.png"
+                ],
+                "score": {
+                    "totalScore": 40,
+                    "environmentScore": 45,
+                    "serviceScore": 35,
+                    "itemScore": 50
+                },
+                "item": [
+                    {
+                        "name": "三级项目一名称",
+                        "id": 1001
+                    },
+                    {
+                        "name": "三级项目二名称",
+                        "id": 1002
+                    },
+                    {
+                        "name": "三级项目三名称",
+                        "id": 1003
+                    }
+                ]
+            },{
+                "evaluationDesc": "文案文案3333333案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案",
                 "idType": 0,
                 "parentEvaluationFlag": 1,
                 "qualityLevelShow": true,
