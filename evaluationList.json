@@ -1,71 +1,72 @@
 {
-    "errno": 0,
-    "errmsg": "success",
-    "tipmsg": "",
-    "logid": "2318006122",
-    "cost": "89ms",
+    "code": 0,
+    "msg": "success",
     "data": {
-        "list": [
+        "evaluationList": [
             {
-                "nickName": "肉腾腾",
-                "picture": "https://lemonpro.cdn.bcebos.com/image/15858935984971389eb97c542-c714-44b1-870e-6fb23e19e63e.jpg",
+                "evaluationDesc": "文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案文案",
+                "idType": 0,
+                "parentEvaluationFlag": 1,
+                "qualityLevelShow": true,
+                "evaluationTime": "用户首次评论",
+                "picture": "https://lemon.cdn.bcebos.com//default%2Fdefault_avatar_girl.png",
+                "evaluationId": 13,
+                "createTime": "3天前",
+                "name": "用户昵称哈哈哈",
+                "auditStatus": 2,
+                "id": 3361123,
+                "evaluationPicture": [
+                    "https://lemon.cdn.bcebos.com//default%2Fdefault_avatar_girl.png",
+                    "https://lemon.cdn.bcebos.com/default%2Fdefault_avatar_boy.png"
+                ],
                 "score": {
-                    "overallFeeling": 35
+                    "totalScore": 40,
+                    "environmentScore": 45,
+                    "serviceScore": 35,
+                    "itemScore": 50
                 },
                 "item": [
                     {
-                        "itemId": 161002,
-                        "itemName": "自体脂肪丰苹果肌"
+                        "name": "三级项目一名称",
+                        "id": 1001
                     },
                     {
-                        "itemId": 160503,
-                        "itemName": "自体脂肪垫下巴"
+                        "name": "三级项目二名称",
+                        "id": 1002
                     },
                     {
-                        "itemId": 210104,
-                        "itemName": "自体脂肪全脸填充"
+                        "name": "三级项目三名称",
+                        "id": 1003
                     }
-                ],
-                "evaluationContent": "脂肪填充全脸，你后悔了吗？先上结论，我不后悔！我大概讲一讲我的感受以及我了解到的。首先就是术前，需要和医生面诊确定手术方案，确定最终手术时间，手术当天需要做一大堆检查，包括尿检，抽血，血压等。然后就是",
-                "evaluationPicture": [
-                    "https://lemonpro.cdn.bcebos.com/image/15858942563358620039dbc5e31-3491-459e-95fc-3cc864b092bc.jpg",
-                    "https://lemonpro.cdn.bcebos.com/image/15858942563358620039dbc5e31-3491-459e-95fc-3cc864b092bc.jpg",
-                    "https://lemonpro.cdn.bcebos.com/image/15858942563358620039dbc5e31-3491-459e-95fc-3cc864b092bc.jpg"
-                ],
-                "evaluationTime": "3月前",
-                "answer": "答复答复答复答复答复答复答复答复答复答复答复答复答复答复答复答复答复答复答复答复",
-                "auditStatus": 0
+                ]
+            }
+        ],
+        "filterItemList": [
+            {
+                "name": "所有",
+                "id": 0
             },
             {
-                "nickName": "肉腾腾",
-                "picture": "https://lemonpro.cdn.bcebos.com/image/15858935984971389eb97c542-c714-44b1-870e-6fb23e19e63e.jpg",
-                "score": {
-                    "overallFeeling": 35
-                },
-                "item": [
-                    {
-                        "itemId": 161002,
-                        "itemName": "自体脂肪丰苹果肌"
-                    },
-                    {
-                        "itemId": 160503,
-                        "itemName": "自体脂肪垫下巴"
-                    },
-                    {
-                        "itemId": 210104,
-                        "itemName": "自体脂肪全脸填充"
-                    }
-                ],
-                "evaluationContent": "脂肪填充全脸，你后悔了吗？先上结论，我不后悔！我大概讲一讲我的感受以及我了解到的。首先就是术前，需要和医生面诊确定手术方案，确定最终手术时间，手术当天需要做一大堆检查，包括尿检，抽血，血压等。然后就是",
-                "evaluationPicture": [
-                    "https://lemonpro.cdn.bcebos.com/image/15858942563358620039dbc5e31-3491-459e-95fc-3cc864b092bc.jpg",
-                    "https://lemonpro.cdn.bcebos.com/image/15858942563358620039dbc5e31-3491-459e-95fc-3cc864b092bc.jpg",
-                    "https://lemonpro.cdn.bcebos.com/image/15858942563358620039dbc5e31-3491-459e-95fc-3cc864b092bc.jpg"
-                ],
-                "evaluationTime": "3月前",
-                "answer": "答复答复答复答复答复答复答复答复答复答复答复答复答复答复答复答复答复答复答复答复",
-                "auditStatus": 0
+                "name": "有图",
+                "id": 1
+            },
+            {
+                "name": "好评",
+                "id": 2
+            },
+            {
+                "name": "中评",
+                "id": 3
+            },
+            {
+                "name": "差评",
+                "id": 4
+            },
+            {
+                "name": "效果秀",
+                "id": 5
             }
-        ]
+        ],
+        "hasMore": false
     }
 }
